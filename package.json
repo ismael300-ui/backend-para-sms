@@ -1,11 +1,11 @@
 {
-  "name": "tu-proyecto",
+  "name": "mi-proyecto",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    // aquí van tus dependencias
+    "express": "^4.18.2"
   }
 }
